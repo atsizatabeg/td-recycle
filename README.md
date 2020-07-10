@@ -1,5 +1,5 @@
 # td-recycle
- td-recyle - Recycle Deliver Script
+ td-recyle - Recycling Delivery Script
  
 ## Açıklama
 Selamlar, eklentinin Türkçe ve İngilizce olmak üzere 2 adet dil seçeneği var zaten incelediğinizde göreceksiniz. 
