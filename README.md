@@ -15,4 +15,4 @@
 - progressBars
 
 ## Eklenti hakkında video/görsel
-Görseller(https://imgur.com/a/KMhz6wU)
+Görseller(https://i.imgur.com/a/KMhz6wU)
