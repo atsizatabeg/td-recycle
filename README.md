@@ -15,4 +15,4 @@
 - progressBars
 
 ## Eklenti hakkında video/görsel
- Görsel 1: https://i.imgyukle.com/2020/07/10/SVpH5s.png
+Görseller(https://imgur.com/a/KMhz6wU)
