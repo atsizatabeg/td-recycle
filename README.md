@@ -7,7 +7,7 @@ Gelişitirmeye hazır ve açık bir eklentidir.
 Yapımında yardımı geçen teamDemo üyesi JakeN'a ve test sürecinde büyük emeği geçen Hasan'a teşekkürlerimi sunuyorum.
 
 ## Kurulum 
-- Github üzerinden dosyayı indirin.
+- Github üzerinden dosyaları indirin.
 - Dosyaları resources klasörüne atın.
 - SQL dosyasını database'ye okutun.
 - Dilerseniz item resimlerini kendi envanterinizde kullanabilirsiniz.
